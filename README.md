@@ -2,6 +2,11 @@
 
 Tiny web server for hosting static files.
 
+## Installation
+
+1. Clone the repository.
+2. Run `cargo install`.
+
 ## Usage
 
 Serve files from the current working directory:
